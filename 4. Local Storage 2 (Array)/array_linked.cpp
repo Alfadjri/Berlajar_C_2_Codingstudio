@@ -28,6 +28,7 @@ int main(){
     terakhir->data = "Kopi Aren";
     terakhir->next = nullptr;
     // balikin ke tapi pertama
+    // ubah data
     tali* sambungan = utama;
 
     cout << "Linked list : " << endl;
